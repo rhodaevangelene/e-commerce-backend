@@ -26,7 +26,7 @@ Enter your password when promted
 You should now be able to use Insomnia to try out the database by using Get, Put, Post, and Delete requests
 
 ## Walkthrough Video
-TODO: Walkthrough Video
+![Walkthrough showcase](Develop/assets/Walkthrough.gif "Walkthough video")
 
 ## Contributors
 Rhoda Evangelene
